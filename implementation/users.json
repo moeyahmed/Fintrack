@@ -1,0 +1,42 @@
+{
+    "moey12": {
+        "username": "moey12",
+        "first_name": "mohamed",
+        "surname": "ahmed",
+        "email": "moey.ahmed02@gmail.com",
+        "password": "mohamed",
+        "dob": "2013-09-10"
+    },
+    "moeyahmed": {
+        "username": "moeyahmed",
+        "first_name": "mohamed",
+        "surname": "ahmed",
+        "email": "moey.ahmed02@gmail.com",
+        "password": "mss",
+        "dob": "1966-02-02"
+    },
+    "miggyg": {
+        "username": "miggyg",
+        "first_name": "miguel12",
+        "surname": "hi",
+        "email": "moey.ahmed02@gmail.com",
+        "password": "hi",
+        "dob": "2017-11-01"
+    },
+    "moey2233": {
+        "username": "moey2233",
+        "first_name": "mohamed",
+        "surname": "ahmed",
+        "email": "moey.ahmed02@gmail.com",
+        "password": "mohamed",
+        "dob": "2023-04-11"
+    },
+    "mumin": {
+        "username": "mumin",
+        "first_name": "mohamed",
+        "surname": "ahmed",
+        "email": "moeyyahmed02@gmail.com",
+        "password": "mohamed",
+        "dob": "2002-09-04"
+    }
+}
